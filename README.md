@@ -1,2 +1,3 @@
-# Tecnicas_de_Programacion_Avanzada
-Lenguaje de Programación: Java
+# Tecnicas de Programacion Avanzada
+
+Resolución de ejercicios y de examenes en Java, más mi código del Proyecto Final -Juego RPG-.
